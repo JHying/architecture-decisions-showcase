@@ -1,0 +1,12 @@
+# Editor / workspace state
+.obsidian/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Superseded drafts kept locally, not published
+docs/_retired/
